@@ -1,3 +1,16 @@
-theme: jekyll-theme-minimal
-title: Theresa Siepe's portfolio
-description: You can find here more about my project updates!
+project:
+  type: website
+
+website:
+  title: "Theresa Siepe's Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
