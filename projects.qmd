@@ -1,0 +1,34 @@
+---
+title: "Projects"
+format: html
+bibliography: bibliography.bib
+nocite: |
+    @nolteEffectSizeCalculation2026
+---
+
+In Progress 
+-----
+
+
+##### The cost of Treating Everyone Fairly: The Effect of Resampling Methods as a Fairness Mitigation Strategy on the Performance of Prediction Models Across Different Subgroups
+
+> Currently, I am working on a simulation study about fairness in clinical prediction models. I am writing my master’s thesis at the Department of Biostatistics and Data Science at the University Medical Center Utrecht, under the supervision of Anne De Hond and Maarten Van Smeden. 
+
+##### Bayesian Evidence Synthesis (BES): Impact of Effect Harmonization on Evidence Aggregation
+
+> I am doing an research internship at the Methodology, Statistics and Data Science Department at Utrecht University where I work together with Alfons Edmar and Irene Klugkist on Effect Size Harmonization in Bayesian Evidence Synthesis. 
+
+
+
+Completed  
+-----
+
+
+##### Analysis of Sex-Specific Differences in Load-Velocity Profiles in Front Crawl Swimming
+
+> I wrote my bachelor's thesis under the supervision of Sebastian Keller and Tinka Smolarek, who both work in the Department of Performance Physiology, German Sport University
+[View my Bachelorthesis](files/bachelorthesis_siepet.pdf){target="_blank"}
+
+##### Effect Size Calculation Procedures in Exercise Intervention Meta-Analyses: A Scoping Review
+
+> I co-authored a review on effect size calculation in exercise meta-analyses together with colleagues from the German Sport University Cologne. [@nolteEffectSizeCalculation2026]

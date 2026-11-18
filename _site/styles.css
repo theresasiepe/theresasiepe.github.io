@@ -1,1 +1,6 @@
 /* css styles */
+.tab-pane img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

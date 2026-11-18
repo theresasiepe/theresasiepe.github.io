@@ -1,14 +1,30 @@
 project:
   type: website
-
+  resources:
+    - pictures/*
+    
 website:
-  title: "Theresa Siepe's Portfolio"
+  title: "Theresa Siepe"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - about.qmd
       - curriculumvitae.qmd
+      - projects.qmd 
+    right:
+      - icon: github
+        href: https://github.com/theresasiepe
+        aria-label: GitHub
+      - text: ORCID
+        href: https://orcid.org/0009-0002-8460-3759
+      - icon: linkedin
+        href: https://www.linkedin.com/in/theresa-siepe-61782a290
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:theresa.siepe@web.de
+        aria-label: Email
+  
       
 
 format:
@@ -17,7 +33,7 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
 
 
 
