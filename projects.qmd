@@ -12,7 +12,7 @@ In Progress
 
 ##### The cost of Treating Everyone Fairly: The Effect of Resampling Methods as a Fairness Mitigation Strategy on the Performance of Prediction Models Across Different Subgroups
 
-> Currently, I am working on a simulation study about fairness in clinical prediction models. I am writing my master’s thesis at the Department of Biostatistics and Data Science at the University Medical Center Utrecht, under the supervision of Anne De Hond and Maarten Van Smeden. 
+> Currently, I am writing my master's thesis about fairness in clinical prediction models. I write the thesis under the supervision of Anne De Hond and Maarten Van Smeden at the Department of Biostatistics and Data Science at the University Medical Center Utrecht. 
 
 ##### Bayesian Evidence Synthesis (BES): Impact of Effect Harmonization on Evidence Aggregation
 
@@ -26,9 +26,9 @@ Completed
 
 ##### Analysis of Sex-Specific Differences in Load-Velocity Profiles in Front Crawl Swimming
 
-> I wrote my bachelor's thesis under the supervision of Sebastian Keller and Tinka Smolarek, who both work in the Department of Performance Physiology, German Sport University
-[View my Bachelorthesis](files/bachelorthesis_siepet.pdf){target="_blank"}
+> I wrote my bachelor's thesis under the supervision of Sebastian Keller and Tinka Smolarek, who both work in the Institute of Exercise Training and Sport Informatics, German Sport University
+[PDF](files/bachelorthesis_siepet.pdf){target="_blank"}
 
 ##### Effect Size Calculation Procedures in Exercise Intervention Meta-Analyses: A Scoping Review
 
-> I co-authored a review on effect size calculation in exercise meta-analyses together with colleagues from the German Sport University Cologne. [@nolteEffectSizeCalculation2026]
+> I co-authored a scoping review on effect size calculation in exercise meta-analyses together with colleagues from the German Sport University Cologne [@nolteEffectSizeCalculation2026]

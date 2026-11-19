@@ -5,24 +5,24 @@ title: "About me"
 Hey there!
 
 Nice that you found your way to my personal website. 
-I'm Theresa and I'm not sure what to write as a first description next to my name. So, have fun exploring some of the descriptions I came up with at first.
+I'm Theresa and below you can find what I am doing and am passionate about.
 
 
 ::: {.panel-tabset}
-## Methodology and Statistics Masters Student
-Hey, I'm Theresa and I currently enjoy my master studies in M.Sc. Methodology and Statistics at Utrecht University.
+## Methodology and Statistics
+Hey, I'm Theresa and I currently enjoy to study the master's program M.Sc. Methodology and Statistics at Utrecht University.
 
 
 ![](/pictures/me.jpeg){width=50% fig-align="center" fig-alt="Me"}
 
-## Sport Scientist 
-Hey, I'm Theresa and in my Bachelor’s in Sports and Performance, I gained broad scientific knowledge from training and performance to physiology and health.
+## Sport Science
+Hey, I'm Theresa and in my Bachelor’s in Sports and Performance I gained varying scientific knowledge ranging from training and performance to physiology and health.
 
 
 ![](/pictures/runner.jpeg){width=50% fig-align="center" fig-alt="Me participating in a study"}
 
 
-## Amateur Ice Skater 
+## Ice Skating
 Hey, I'm Theresa and I regularly go ice skating and aim to make it to the Olympics in 2030 ;-). 
 
 
